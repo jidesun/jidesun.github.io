@@ -17,13 +17,10 @@ a:hover { color:#B2B3B4; }
 			#menu_4938d317 .mobileEntry { display: block; } 
 			#menu_4938d317 .normalEntry { display: none; } 
 		}
-#button_263f8a00 { vertical-align: bottom; border-radius: 3px; position:relative; display: inline-block; width:100px; height:40px; background-color:#6E17FB;  }
+#button_263f8a00 { vertical-align: bottom; border-radius: 3px; position:relative; display: inline-block; width:150px; height:40px; background-color:#6E17FB;  }
 #button_263f8a00:hover { background-color:#9F65FD;  }
 #button_263f8a00:hover span { color:#CDCDCD; }
-#button_3680eb9 { vertical-align: bottom; border-radius: 3px; position:relative; display: inline-block; width:100px; height:40px; background-color:#00893C;  }
-#button_3680eb9:hover { background-color:#27AE60;  }
-#button_3680eb9:hover span { color:#CDCDCD; }
-#button_6f4409d4 { vertical-align: bottom; border-radius: 3px; position:relative; display: inline-block; width:100px; height:40px; background-color:#6E17FB;  }
+#button_6f4409d4 { vertical-align: bottom; border-radius: 3px; position:relative; display: inline-block; width:150px; height:40px; background-color:#6E17FB;  }
 #button_6f4409d4:hover { background-color:#9F65FD;  }
 #button_6f4409d4:hover span { color:#CDCDCD; }
 #button_8294f55 { vertical-align: bottom; border-radius: 3px; position:relative; display: inline-block; width:150px; height:40px; background-color:#00893C;  }
@@ -62,20 +59,20 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
 .textstyle10 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  }
-.textstyle11 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  }
-.textstyle12 { font-size:32pt; font-family:Tahoma, Geneva, sans-serif; color:#20242E;  }
-.textstyle13 { font-size:15pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#20242E; line-height: 1.5;  }
+.textstyle11 { font-size:32pt; font-family:Tahoma, Geneva, sans-serif; color:#20242E;  }
+.textstyle12 { font-size:15pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#20242E; line-height: 1.5;  }
 #container_28baa5e8 { vertical-align: top; position:relative; display: inline-block; width:90%; min-height:152px; background:none;  }
 #container_28baa5e8_padding { margin: 10px; display: block;  }
 #container_749be54d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:426px; background-color:#494949;  }
 #container_749be54d_padding { margin: 10px; display: block;  }
-.textstyle14 { font-size:32pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  }
+.textstyle13 { font-size:32pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  }
 #container_7ea221bd { vertical-align: top; position:relative; display: inline-block; width:90%; min-height:150px; background:none;  }
 #container_7ea221bd_padding { margin: 10px; display: block;  }
-.textstyle15 { font-size:15pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; line-height: 1.5;  }
-.textstyle16 { font-size:32pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; line-height: 1.5;  }
-.textstyle17 { font-size:15pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  }
-.textstyle18 { font-size:15pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#20242E;  }
+.textstyle14 { font-size:15pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; line-height: 1.5;  }
+.textstyle15 { font-size:32pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; line-height: 1.5;  }
+.textstyle16 { font-size:15pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  }
+.textstyle17 { font-size:15pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#20242E;  }
+.textstyle18 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  }
 .textstyle19 { font-size:32pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#20242E;  }
 #container_459f1faa { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FFFFFF;  }
 #container_459f1faa_padding { margin: 10px; display: block;  }
