@@ -50,12 +50,14 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .menustyle4 { position:absolute; width:73px; height:38px; left:130px;  }
 .menustyle5 { position:absolute; width:69px; height:38px; left:203px;  }
 .textstyle7 { font-size:14pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  white-space: nowrap; }
-#container_4a5a90a8 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:415px; background-color:#2B252D; background: linear-gradient(to bottom, #9A9AE0, #2B252D);  }
+#container_4a5a90a8 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:300px; background:none;  }
+#container_1483ef12 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#E4DFD9;  }
+#container_1483ef12_padding { margin: 20px 0px 0px 0px;display: block;  }
+#img_1fffb498 { vertical-align: bottom; position:relative; display: inline-block; margin:0px 20px 0px 0px;width:25%; background:none; height:auto;  }
+#img_73620bee { vertical-align: bottom; position:relative; display: inline-block; width:25%; background:none; height:auto;  }
+#img_54755a93 { vertical-align: bottom; position:relative; display: inline-block; width:25%; background:none; height:auto;  }
 .textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#img_1ebebf5c { vertical-align: bottom; position:relative; display: inline-block; width:75%; background:none; height:auto;  }
 .textstyle9 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  }
-#container_6470dc24 { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
-#container_6470dc24_padding { margin: 10px; display: block;  }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
 .textstyle10 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  }
@@ -88,7 +90,6 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 {
 		#container_1383d4b1 * span { font-size:15pt;  }
 		#menu_4938d317 { width:50px;  }
-		#container_6470dc24 * span { font-size:24pt;  }
 }
 @media only screen and (max-width: 450px)
 {
