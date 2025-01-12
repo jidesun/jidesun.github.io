@@ -13,9 +13,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 #container_36a80373_padding { margin: 10px; display: block;  }
 .textstyle4 { font-size:22pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  }
 #container_2c8227ab { vertical-align: top; position:relative; display: inline-block; width:60%; min-height:45px; background:none;  }
-#container_2c8227ab_padding { margin: 10px; display: block;  }
-#container_6b2a23d8 { vertical-align: top; position:relative; display: inline-block; width:87%; min-height:41px; background:none;  }
-#container_6b2a23d8_padding { margin: 10px; display: block;  }
+#container_6b2a23d8 { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
 .textstyle5 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
 #container_168929e3 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:205px; background-color:#AA967B; background-image: url(rc_images/notebook.jpg); background-position:center center; background-size:cover;  }
 .textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }

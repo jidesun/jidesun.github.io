@@ -12,10 +12,8 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 #container_2e18e390_padding { margin: 10px; display: block;  }
 .textstyle3 { font-size:22pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  }
 #container_5e11d928 { vertical-align: top; position:relative; display: inline-block; width:60%; min-height:50px; background:none;  }
-#container_5e11d928_padding { margin: 10px; display: block;  }
 .textstyle4 { text-align:right; }
-#container_2d7b4969 { vertical-align: top; position:relative; display: inline-block; width:87%; min-height:104px; background:none;  }
-#container_2d7b4969_padding { margin: 10px; display: block;  }
+#container_2d7b4969 { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
 .textstyle5 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
 #container_42e1be39 { vertical-align: top; border-radius: 0px 0px 15px 15px; position:relative; display: inline-block; width:100%; min-height:473px; background-color:#2B252D; background: linear-gradient(to bottom, #9A9AE0, #2B252D);  }
 #img_1a386bfe { vertical-align: bottom; position:relative; display: inline-block; margin:30px; width:100%; background:none; height:auto;  }
