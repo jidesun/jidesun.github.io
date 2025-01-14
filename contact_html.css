@@ -4,7 +4,7 @@ a:active { color:#0280E1; }
 a:hover { color:#B2B3B4; } 
 body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
-#container_4b9a073a { vertical-align: top; position:relative; display: inline-block; width:90%; min-height:150px; max-width:1600px; background:none;  }
+#container_4b9a073a { vertical-align: top; position:relative; display: inline-block; width:90%; min-height:612px; max-width:1600px; background:none;  }
 .textstyle2 { text-align:right; }
 #container_636221d5 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:65px; background-color:#222222;  }
 #container_636221d5_padding { margin: 10px; display: block;  }
@@ -29,7 +29,6 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle14 { font-size:15pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#20242E; line-height: 1.5;  }
 .textstyle15 { font-size:13pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#20242E; line-height: 1.5;  }
 .textstyle16 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#20242E; line-height: 1.5;  }
-.textstyle17 { font-size:15pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#20242E; line-height: 1.5;  }
 @media only screen and (max-width: 640px)
 {
 		#container_36a80373 * span { font-size:15pt;  }
