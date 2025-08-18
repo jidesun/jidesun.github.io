@@ -7,8 +7,7 @@
 //
 
 [build]
-  publish = "public"   # 정적 파일을 넣을 폴더, ex) public/, dist/, out/
-  command = "npm run build" # 빌드 명령 (없다면 제거 가능)
+  publish = "public"
 
 [[headers]]
   for = "/apple-app-site-association"
@@ -19,3 +18,4 @@
   for = "/.well-known/apple-app-site-association"
   [headers.values]
     Content-Type = "application/json"
+
