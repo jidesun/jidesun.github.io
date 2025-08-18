@@ -11,5 +11,8 @@ dist/
 
 # Vercel 설정 파일이나 꼭 올리고 싶은 파일 제외
 !.vercel/
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f3c006b (Add apple-app-site-association for Universal Links)
