@@ -1,0 +1,19 @@
+//
+//  Untitled.swift
+//  Danjaumkey
+//
+//  Created by 지대선 on 8/16/25.
+//  Copyright © 2025 Nextplan. All rights reserved.
+//
+
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8ZZ75HVDVL.kr.nextplan.danjaumkey",
+        "paths": [ "/open/*" ]
+      }
+    ]
+  }
+}

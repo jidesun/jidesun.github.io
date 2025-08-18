@@ -1,6 +1,5 @@
 
 [build]
-  publish = "public"
 
 [[headers]]
   for = "/apple-app-site-association"
