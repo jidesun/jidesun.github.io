@@ -4,11 +4,11 @@
 
 [[headers]]
   for = "/apple-app-site-association"
-  [headers.values]
+  [headers]
     "Content-Type" = "application/json"
 
 [[headers]]
   for = "/.well-known/apple-app-site-association"
-  [headers.values]
+  [headers]
     "Content-Type" = "application/json"
 
