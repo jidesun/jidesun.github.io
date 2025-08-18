@@ -1,0 +1,6 @@
+# Apple App Site Association 요청은 예외 처리
+/apple-app-site-association  /apple-app-site-association  200
+/.well-known/apple-app-site-association  /.well-known/apple-app-site-association  200
+
+# SPA 모든 경로는 index.html로 리디렉트
+/*  /index.html  200
