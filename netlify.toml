@@ -1,0 +1,21 @@
+//
+//  Untitled.swift
+//  Danjaumkey
+//
+//  Created by 지대선 on 8/18/25.
+//  Copyright © 2025 Nextplan. All rights reserved.
+//
+
+[build]
+  publish = "public"   # 정적 파일을 넣을 폴더, ex) public/, dist/, out/
+  command = "npm run build" # 빌드 명령 (없다면 제거 가능)
+
+[[headers]]
+  for = "/apple-app-site-association"
+  [headers.values]
+    Content-Type = "application/json"
+
+[[headers]]
+  for = "/.well-known/apple-app-site-association"
+  [headers.values]
+    Content-Type = "application/json"
