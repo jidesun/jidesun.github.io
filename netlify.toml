@@ -1,21 +1,14 @@
-//
-//  Untitled.swift
-//  Danjaumkey
-//
-//  Created by 지대선 on 8/18/25.
-//  Copyright © 2025 Nextplan. All rights reserved.
-//
 
 [build]
   publish = "public"
 
 [[headers]]
   for = "/apple-app-site-association"
-  [headers]
+  [headers.values]
     "Content-Type" = "application/json"
 
 [[headers]]
   for = "/.well-known/apple-app-site-association"
-  [headers]
+  [headers.values]
     "Content-Type" = "application/json"
 
