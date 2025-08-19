@@ -6,8 +6,11 @@ dist/
 # 모든 숨김 폴더와 파일 무시
 .*
 
+!.gitignore
+
 # 단, .well-known 폴더는 예외 처리
 !.well-known/
+!.well-known/*
 
 # Vercel 설정 파일이나 꼭 올리고 싶은 파일 제외
 !.vercel/
