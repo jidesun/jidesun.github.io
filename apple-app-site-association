@@ -5,6 +5,8 @@
       {
         "appID": "8ZZ75HVDVL.kr.nextplan.danjaumkey",
         "paths": [ "/open/*" ]
+        "paths": [ "/settings/*" ]
+        "paths": [ "/" ]
       }
     ]
   }
