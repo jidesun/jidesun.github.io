@@ -16,7 +16,7 @@
                }
                {
                   "/": "/help/*",
-                  "?": { "articleNumber": "????" },
+                  "?": { "articleNumber": "1234" },
                   "comment": "Matches any URL whose path starts with /help/ and which has a query item with name 'articleNumber' and a value of exactly 4 characters"
                }
              ]
