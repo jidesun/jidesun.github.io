@@ -7,13 +7,17 @@
              "components": [
                {
                   "/": "/open/*",
-                  "comment": "Matches any URL whose path starts with /buy/"
+                  "comment": "Matches any URL whose path starts with /open/"
+               },
+               {
+                  "/": "/settings/*",
+                  "comment": "Matches any URL whose path starts with /settings/"
                },
                {
                   "/": "/help/website/*",
                   "exclude": true,
                   "comment": "Matches any URL whose path starts with /help/website/ and instructs the system not to open it as a universal link"
-               }
+               },
                {
                   "/": "/help/*",
                   "?": { "articleNumber": "1234" },
