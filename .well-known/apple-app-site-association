@@ -2,38 +2,12 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [
-          "8ZZ75HVDVL.kr.nextplan.danjaumkey"
-        ],
+        "appIDs": [ "8ZZ75HVDVL.kr.nextplan.danjaumkey" ],
         "components": [
-          {
-            "/": "/"
-          },
-          {
-            "/": "/home"
-          },
-          {
-            "/": "/settings"
-          },
-          {
-            "/": "/settings/freqMemo"
-          },
-          {
-            "/": "/settings/freqSymbol"
-          },
-          {
-            "/": "/open/updateApp"
-          },
-          {
-            "/": "/open/premium"
-          }
+          { "/": "/settings", "comment": "설정 페이지 매칭" },
+          { "/": "/*", "comment": "모든 경로 매칭" }
         ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "8ZZ75HVDVL.kr.nextplan.danjaumkey"
     ]
   }
 }
