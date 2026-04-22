@@ -1,28 +1,10 @@
-
 {
   "applinks": {
       "details": [
            {
              "appIDs": [ "8ZZ75HVDVL.kr.nextplan.danjaumkey"],
              "components": [
-               {
-                  "/": "/open/*",
-                  "comment": "Matches any URL whose path starts with /open/"
-               },
-               {
-                  "/": "/settings/*",
-                  "comment": "Matches any URL whose path starts with /settings/"
-               },
-               {
-                  "/": "/help/website/*",
-                  "exclude": true,
-                  "comment": "Matches any URL whose path starts with /help/website/ and instructs the system not to open it as a universal link"
-               },
-               {
-                  "/": "/help/*",
-                  "?": { "articleNumber": "1234" },
-                  "comment": "Matches any URL whose path starts with /help/ and which has a query item with name 'articleNumber' and a value of exactly 4 characters"
-               }
+                { "/": "/*" }
              ]
            }
        ]
