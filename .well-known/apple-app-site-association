@@ -1,15 +1,39 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appIDs": [ "8ZZ75HVDVL.kr.nextplan.danjaumkey"],
-             "components": [
-                { "/": "/*" }
-             ]
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": [ "8ZZ75HVDVL.kr.nextplan.danjaumkey" ]
-   }
+    "details": [
+      {
+        "appIDs": [
+          "8ZZ75HVDVL.kr.nextplan.danjaumkey"
+        ],
+        "components": [
+          {
+            "/": "/"
+          },
+          {
+            "/": "/home"
+          },
+          {
+            "/": "/settings"
+          },
+          {
+            "/": "/settings/freqMemo"
+          },
+          {
+            "/": "/settings/freqSymbol"
+          },
+          {
+            "/": "/open/updateApp"
+          },
+          {
+            "/": "/open/premium"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "8ZZ75HVDVL.kr.nextplan.danjaumkey"
+    ]
+  }
 }
