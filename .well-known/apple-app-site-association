@@ -2,12 +2,21 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [ "8ZZ75HVDVL.kr.nextplan.danjaumkey" ],
+        "appIDs": [
+          "8ZZ75HVDVL.kr.nextplan.danjaumkey"
+        ],
         "components": [
-          { "/": "/settings", "comment": "설정 페이지 매칭" },
-          { "/": "/*", "comment": "모든 경로 매칭" }
+          { "/": "/" },
+          { "/": "/home" },
+          { "/": "/settings*" },
+          { "/": "/open/*" }
         ]
       }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "8ZZ75HVDVL.kr.nextplan.danjaumkey"
     ]
   }
 }
